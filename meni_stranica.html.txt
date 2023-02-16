@@ -1,0 +1,33 @@
+<h1> Kreirati stranicu IT Akademije </h1>
+
+    <ul type="square"> 
+        <li>Programi:</li>
+        <ul>
+            <li> Programiranje</li>
+            <ul>
+            <li>Prijavi se</li>
+        </ul>
+            <li> Administrcija</li>
+            <ul>
+                    <li>Prijavi se</li>
+                </ul>
+
+            <li> 3D Design i CAD</li> 
+            <ul>
+                    <li>Prijavi se</li>
+                </ul>
+            <li> Design i Multimedija</li>
+            <ul>
+                    <li>Prijavi se</li>
+                </ul>   
+            <li>IT Business</li>
+            <ul>
+                    <li>Prijavi se</li>
+                </ul>
+            <li> Mobile Development</li>
+            <ul>
+                    <li>Prijavi se</li>
+                </ul>
+
+
+    </ul>
